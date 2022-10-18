@@ -1,0 +1,60 @@
+TEST 1
+
+Welcome to the Global Energy bill calculator!
+Enter your account number.
+123456
+Enter the month number (e.g., for January, enter 1).
+2
+Enter your electricity plan (EFIR or EFLR).
+efir
+Enter the amount of electricity you used in month 2 (in kWh).
+500
+Enter your gas plan (GFIR or GFLR).
+gfir
+Enter the amount of gas you used in month 2 (in GJ).
+700
+Enter the abbreviation for your province of residence (two letters).
+ab
+Thank you! Your total amount due now is: $205.44
+
+*********************************************************************
+
+TEST 2S
+
+Welcome to the Global Energy bill calculator!
+Enter your account number.
+456789
+Enter the month number (e.g., for January, enter 1).
+4
+Enter your electricity plan (EFIR or EFLR).
+eflr
+Enter the amount of electricity you used in month 4 (in kWh).
+700
+Enter your gas plan (GFIR or GFLR).
+gflr
+Enter the amount of gas you used in month 4 (in GJ).
+650
+Enter the abbreviation for your province of residence (two letters).
+bc
+Thank you! Your total amount due now is: $221.82
+
+*********************************************************************
+
+TEST 3
+
+Welcome to the Global Energy bill calculator!
+Enter your account number.
+147852
+Enter the month number (e.g., for January, enter 1).
+11
+Enter your electricity plan (EFIR or EFLR).
+efir
+Enter the amount of electricity you used in month 11 (in kWh).
+1100
+Enter your gas plan (GFIR or GFLR).
+gflr
+Enter the amount of gas you used in month 11 (in GJ).
+1320
+Enter the abbreviation for your province of residence (two letters).
+nt
+Thank you! Your total amount due now is: $280.17
